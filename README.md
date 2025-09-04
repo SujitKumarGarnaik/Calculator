@@ -24,15 +24,10 @@ This project demonstrates clean UI design, modular JavaScript logic, and safe ev
 
   ## 📂 Project Structure
 calculator/
-── **index.html # Main HTML file**
-── **style.css # Styles for calculator**
-── **script.js # JavaScript logic**
-── **README.md # Project documentation**
-
----
-
-## 🎨 UI Preview
-![Calculator Preview](https://via.placeholder.com/600x350.png?text=Calculator+UI+Preview)
+── **index.html** # Main HTML file
+── **style.css** # Styles for calculator
+── **script.js** # JavaScript logic
+── **README.md** # Project documentation
 
 ---
 
